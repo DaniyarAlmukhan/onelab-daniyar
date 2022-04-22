@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  background: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+  height: 100vh;
+}
